@@ -1,0 +1,6 @@
+diffusers transformers scipy
+huggingface_hub
+googletrans==3.1.0a0
+streamlit
+matplotlib
+torch
